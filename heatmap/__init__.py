@@ -1,5 +1,5 @@
 #heatmap.py v1.0 20091004
-from PIL import Image,ImageChops
+import Image,ImageChops
 import os
 import random
 import math
